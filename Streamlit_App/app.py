@@ -179,4 +179,6 @@ if st.button("🔍 Check Loan Eligibility", use_container_width=True):
 st.divider()
 st.markdown("*Loan Approval Prediction System — ML Project*")
 
-#streamlit run "c:\Users\Harshita Mishra\OneDrive\Desktop\LoanApproval_Project\Streamlit_App\app.py"
+#streamlit run "c:\Users\Harshita Mishra\OneDrive\Desktop\LoanApproval_Project\Streamlit_App\app.py".\venv\Scripts\activate
+#python -m streamlit run "c:\Users\Harshita Mishra\OneDrive\Desktop\LoanApproval_Project\Streamlit_App\app.py"
+#.\venv\Scripts\activate
