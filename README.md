@@ -7,8 +7,10 @@ applicant information such as income, credit history,
 loan amount, and other factors.
 
 ---
-Live demo:https://loan-approval-app-cmum8wekk4v4kp48r5ewpt.streamlit.app/
-Github link:https://github.com/HarshitaMishra219/loan-approval-streamlit
+##Live demo:https://loan-approval-app-cmum8wekk4v4kp48r5ewpt.streamlit.app/
+
+
+##Github link:https://github.com/HarshitaMishra219/loan-approval-streamlit
 
 ## 👨‍💻 Project Details
 | Detail | Info |
